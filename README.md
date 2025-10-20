@@ -1,4 +1,4 @@
-# 📊 AVON Campaign Analysis – Data Science Mini Project
+# 📊 AVON Campaign Analysis – Data Science Mini Project Simulated and analyzed promotional campaign performance 
 
 This project analyzes promotional campaigns at AVON Kazakhstan.  
 It focuses on measuring business outcomes of incentive programs aimed at acquiring **new active representatives** and **increasing sales**.
